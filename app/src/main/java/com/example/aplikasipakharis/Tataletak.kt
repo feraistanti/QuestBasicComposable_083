@@ -160,4 +160,5 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
                 fontSize = 50.sp,
                 color = Color.Red,
                 fontWeight = FontWeight.Bold,
+                fontFamily = FontFamily.Cursive,
 
